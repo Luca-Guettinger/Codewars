@@ -10,7 +10,7 @@ namespace Codewars
     {
         static void Main(string[] args)
         {
-
+            //test
         }
     }
 }
