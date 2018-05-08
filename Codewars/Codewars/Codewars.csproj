@@ -44,10 +44,14 @@
   <ItemGroup>
     <Compile Include="AreTheyTheSame.cs" />
     <Compile Include="ArrayDifference.cs" />
+    <Compile Include="Build_Tower.cs" />
+    <Compile Include="ConsecuteStrings.cs" />
+    <Compile Include="CountSmylies.cs" />
     <Compile Include="Eureka.cs" />
     <Compile Include="MainClass.cs" />
     <Compile Include="PascalsTriangle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SumTwoLowestIntegers.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
