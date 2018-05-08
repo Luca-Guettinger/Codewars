@@ -1,0 +1,2 @@
+C:\Users\LGU\Desktop\codewars Git test\Codewars\Codewars\obj\Debug\Codewars.csprojAssemblyReference.cache
+C:\Users\LGU\Desktop\codewars Git test\Codewars\Codewars\obj\Debug\Codewars.csproj.CoreCompileInputs.cache
