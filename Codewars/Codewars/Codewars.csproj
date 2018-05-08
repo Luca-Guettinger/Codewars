@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AreTheyTheSame.cs" />
+    <Compile Include="ArrayDifference.cs" />
     <Compile Include="Eureka.cs" />
     <Compile Include="MainClass.cs" />
     <Compile Include="PascalsTriangle.cs" />
