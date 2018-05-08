@@ -1,2 +1,7 @@
 C:\Users\LGU\Desktop\codewars Git test\Codewars\Codewars\obj\Debug\Codewars.csprojAssemblyReference.cache
 C:\Users\LGU\Desktop\codewars Git test\Codewars\Codewars\obj\Debug\Codewars.csproj.CoreCompileInputs.cache
+C:\Users\LGU\Desktop\codewars Git test\Codewars\Codewars\bin\Debug\Codewars.exe.config
+C:\Users\LGU\Desktop\codewars Git test\Codewars\Codewars\bin\Debug\Codewars.exe
+C:\Users\LGU\Desktop\codewars Git test\Codewars\Codewars\bin\Debug\Codewars.pdb
+C:\Users\LGU\Desktop\codewars Git test\Codewars\Codewars\obj\Debug\Codewars.exe
+C:\Users\LGU\Desktop\codewars Git test\Codewars\Codewars\obj\Debug\Codewars.pdb

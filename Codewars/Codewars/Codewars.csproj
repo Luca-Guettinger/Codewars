@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AreTheyTheSame.cs" />
+    <Compile Include="Eureka.cs" />
     <Compile Include="MainClass.cs" />
     <Compile Include="PascalsTriangle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
