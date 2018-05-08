@@ -45,13 +45,28 @@
     <Compile Include="AreTheyTheSame.cs" />
     <Compile Include="ArrayDifference.cs" />
     <Compile Include="Build_Tower.cs" />
+    <Compile Include="Ccrambles.cs" />
     <Compile Include="ConsecuteStrings.cs" />
+    <Compile Include="CountBits.cs" />
     <Compile Include="CountSmylies.cs" />
+    <Compile Include="CountVowel.cs" />
     <Compile Include="Eureka.cs" />
+    <Compile Include="FindTheOdd.cs" />
+    <Compile Include="FormatToPhoneNumber.cs" />
+    <Compile Include="getMidCharacter.cs" />
+    <Compile Include="IQTest.cs" />
+    <Compile Include="ListFiltering.cs" />
     <Compile Include="MainClass.cs" />
+    <Compile Include="MoneyMoneyMoney.cs" />
+    <Compile Include="MovingZerosToTheEnd.cs" />
     <Compile Include="PascalsTriangle.cs" />
+    <Compile Include="PigLatin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RGBToHex.cs" />
     <Compile Include="SumTwoLowestIntegers.cs" />
+    <Compile Include="TicTacToe Checker.cs" />
+    <Compile Include="TrollTheTrolls.cs" />
+    <Compile Include="XO.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
