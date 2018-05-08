@@ -31,6 +31,7 @@ namespace Codewars
         //    }
         //    return output;
         //}
+        //
 
         public static String LongestConsec(String[] stringArray, int k)
         {
