@@ -10,7 +10,14 @@ namespace Codewars
     {
         static void Main(string[] args)
         {
-            
+            string[] tower = Build_Tower.TowerBuilder(20);
+            foreach (string s in tower)
+            {
+                Console.WriteLine(s);
+
+
+            }
+            Console.ReadLine();
         }
     }
 }
